@@ -78,9 +78,6 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 - ### Crop disease detection
 ![demo](https://github.com/Hirthick6/FarmApp/3.gif)
 
-- ### Author page
-![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem4zOGJrdml6Y2J6bXBkeGk1MzdnN2ljeHA2NGM3OTFnOTF5ajFxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aYKfK57T7t8Ndraf66/giphy.gif)
-
  
  ### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
 
@@ -88,9 +85,6 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 
 Clone the project
 
-```bash
-   git clone https://github.com/Chandradithya8/FarmApp.git
-```
 Extract all the files. 
 
 Open command prompt and go to the extracted files directory
