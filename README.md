@@ -67,16 +67,16 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 ## Demo
 
 - ### Home Page 
-![demo](https://jmp.sh/s/Qdzgt4Stgxqw9zhflNdc)
+![demo](https://github.com/nandhini206/Agriculture-App/blob/main/home.gif)
 
 - ### Crop Recommendation
-![demo](https://github.com/Hirthick6/FarmApp/fertilizer.gif.gif)
+![demo](https://github.com/nandhini206/Agriculture-App/blob/main/crop.gif.gif)
 
 - ### Fertilizer Recommendation
-![demo](https://github.com/Hirthick6/FarmApp/fertilizer.gif (1).gif)
+![demo](https://github.com/nandhini206/Agriculture-App/blob/main/fertilizer.gif.gif)
 
 - ### Crop disease detection
-![demo](https://github.com/Hirthick6/FarmApp/3.gif)
+![demo](https://github.com/nandhini206/Agriculture-App/blob/main/output%20pic/3.gif)
 
  
  ### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
@@ -85,6 +85,9 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 
 Clone the project
 
+```bash
+   git clone https://github.com/nandhini206/Agriculture-App//FarmApp.git
+```
 Extract all the files. 
 
 Open command prompt and go to the extracted files directory
@@ -123,6 +126,7 @@ Then you will be able to use the application on your localhost.
 - In this application I have included two machine learning and one deep learning model. In the future I will try to add even more models.
 
 ## Contact 📞
+
 
  If you have any doubt or want to contribute feel free to hit me up on [Gmail]
  (hirthicksofficial@gmail.com)
