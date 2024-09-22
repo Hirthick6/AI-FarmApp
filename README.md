@@ -68,15 +68,15 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 
 - ### Home Page 
 ![FarmApp Interface](https://github.com/Hirthick6/FarmApp/blob/main/home.gif)
+
 - ### Crop Recommendation
-![demo](https://github.com/nandhini206/Agriculture-App/blob/main/crop.gif.gif)
+![FarmApp Interface](https://github.com/Hirthick6/FarmApp/blob/main/fertilizer.gif%20(1).gif.gif)
 
 - ### Fertilizer Recommendation
-![demo](https://github.com/nandhini206/Agriculture-App/blob/main/fertilizer.gif.gif)
+![FarmApp Interface](https://github.com/Hirthick6/FarmApp/blob/main/home.gif)
 
 - ### Crop disease detection
-![demo](https://github.com/nandhini206/Agriculture-App/blob/main/output%20pic/3.gif)
-
+![FarmApp Interface](https://github.com/Hirthick6/FarmApp/blob/main/home.gif)
  
  ### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
 
