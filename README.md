@@ -86,7 +86,7 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 Clone the project
 
 ```bash
-   git clone https://github.com/nandhini206/Agriculture-App//FarmApp.git
+   git clone https://github.com/Hirthick6/FarmApp//FarmApp.git
 ```
 Extract all the files. 
 
