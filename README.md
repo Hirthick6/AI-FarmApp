@@ -3,7 +3,7 @@
 
 FarmApp is a simple Machine Learning and Deep Learning based application that helps farmers to improve the farming strategy. The application is capable of, predicting the best crop to be cultivated for that land, predicting the best fertilizer to be used for that crop and detecting various diseases of the crop. We use state-of-the-art machine learning and deep learning technologies to make the prediction/detection pretty accurate.
 <br>
-<img src="https://media.istockphoto.com/photos/smart-farming-using-modern-technologies-in-agriculture-man-agronomist-picture-id1253210194?b=1&k=20&m=1253210194&s=170667a&w=0&h=960yc9tQD9SoWOiGBPRU8eGU9EUIW45tnEnYQkUXFU0=" height="480" width="1000" />
+<img src="https://media.istockphoto.com/photos/smart-farming-using-modern-technologies-in-agriculture-man-agronomist-picture-id1253210194?b=1&k=20&m=1253210194&s=170667a&w=0&h=960yc9tQD9SoWOiGBPRU8eGU9EUIW45tnEnYQkUXFU0=" height="480" width="500" />
 
 ## DISCLAIMER ⚠️
 
@@ -67,8 +67,7 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 ## Demo
 
 - ### Home Page 
-![demo](https://github.com/nandhini206/Agriculture-App/blob/main/home.gif)
-
+![FarmApp Interface](https://github.com/Hirthick6/FarmApp/blob/main/home.gif)
 - ### Crop Recommendation
 ![demo](https://github.com/nandhini206/Agriculture-App/blob/main/crop.gif.gif)
 
