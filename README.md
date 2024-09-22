@@ -70,7 +70,7 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 ![FarmApp Interface](https://github.com/Hirthick6/FarmApp/blob/main/home.gif)
 
 - ### Crop Recommendation
-![FarmApp Interface](https://github.com/Hirthick6/FarmApp/blob/main/fertilizer.gif%20(1).gif.gif)
+![FarmApp Interface](https://github.com/Hirthick6/FarmApp/blob/main/fertilizer.gif%20(1).gif)
 
 - ### Fertilizer Recommendation
 ![FarmApp Interface](https://github.com/Hirthick6/FarmApp/blob/main/home.gif)
